@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.body {
+  font-family: $font-stack;
+  background-color: $background-color;
+  color: $primary-text-color;
+}

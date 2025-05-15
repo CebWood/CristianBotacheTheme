@@ -1,0 +1,18 @@
+# 👉 Node.js (evita subir dependencias pesadas)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 👉 Sass cache y archivos temporales
+.sass-cache/
+*.scssc
+*.map
+
+# 👉 Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# 👉 Archivos temporales o de pruebas
+*.log
+*.tmp

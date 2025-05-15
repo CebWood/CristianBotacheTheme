@@ -1,0 +1,10 @@
+@use 'partials/variables' as *;
+@use 'partials/base';	
+
+.navbar {
+    background-color: $background-color-light;
+
+    & a:hover {
+        color: #61dafb;
+    }
+}
