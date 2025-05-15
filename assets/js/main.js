@@ -7,4 +7,3 @@ document.addEventListener("DOMContentLoaded", function () {
         onStart: () => console.log("Animación GSAP iniciada")
     });
 });
-
